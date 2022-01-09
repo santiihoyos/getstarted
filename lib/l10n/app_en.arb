@@ -1,0 +1,21 @@
+{
+    "app_name": "Barber Book",
+    "@make_booking": {
+      "description": "Generic app name"
+    },
+
+    "app_name_footer": "Barber Book®",
+    "@app_name_footer": {
+      "description": "Generic app name for footer about."
+    },
+
+    "make_booking": "MAKE A BOOKING",
+    "@make_booking": {
+      "description": "Text for make a booking button. page: WELCOME_SCREEN"
+    },
+
+    "cancel_booking": "CANCEL A BOOKING",
+    "@cancel_booking": {
+      "description": "Text for cancel a booking button. page: WELCOME_SCREEN"
+     }
+}
